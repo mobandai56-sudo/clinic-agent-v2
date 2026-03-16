@@ -74,7 +74,12 @@ def home():
     </style>
 </head>
 <body>
-    <div class="header">🏥 HealthFirst Clinic</div>
+   <div class="header">
+    🏥 HealthFirst Clinic — AI Receptionist
+    <div style="font-size:12px; opacity:0.8; margin-top:4px">
+        Powered by AI • Built by bharatpurai
+    </div>
+</div>
     <div class="messages" id="messages">
         <div class="msg bot">
             Namaste! Welcome to HealthFirst Clinic 🏥<br>
